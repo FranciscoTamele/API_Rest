@@ -17,8 +17,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableTransactionManagement
 @EnableWebMvc
 @RestController
-@EnableAutoConfiguration
-//
+////
 
 public class PrimeiraApiApplication {
 
